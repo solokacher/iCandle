@@ -1,0 +1,43 @@
+#ifndef _PINS_H_
+#define _PINS_H_
+
+SBIT (P0_7, SFR_P0, 7);
+SBIT (P0_6, SFR_P0, 6);
+SBIT (P0_5, SFR_P0, 5);
+SBIT (P0_4, SFR_P0, 4);
+SBIT (P0_3, SFR_P0, 3);
+SBIT (P0_2, SFR_P0, 2);
+SBIT (P0_1, SFR_P0, 1);
+SBIT (P0_0, SFR_P0, 0);
+
+// PIN1
+SBIT (P1_7, SFR_P1, 7);
+SBIT (P1_6, SFR_P1, 6);
+SBIT (P1_5, SFR_P1, 5);
+SBIT (P1_4, SFR_P1, 4);
+SBIT (P1_3, SFR_P1, 3);
+SBIT (P1_2, SFR_P1, 2);
+SBIT (P1_1, SFR_P1, 1);
+SBIT (P1_0, SFR_P1, 0);
+
+// PIN2
+SBIT (P2_7, SFR_P2, 7);
+SBIT (P2_6, SFR_P2, 6);
+SBIT (P2_5, SFR_P2, 5);
+SBIT (P2_4, SFR_P2, 4);
+SBIT (P2_3, SFR_P2, 3);
+SBIT (P2_2, SFR_P2, 2);
+SBIT (P2_1, SFR_P2, 1);
+SBIT (P2_0, SFR_P2, 0);
+
+// PIN3
+SBIT (P3_7, SFR_P3, 7);
+SBIT (P3_6, SFR_P3, 6);
+SBIT (P3_5, SFR_P3, 5);
+SBIT (P3_4, SFR_P3, 4);
+SBIT (P3_3, SFR_P3, 3);
+SBIT (P3_2, SFR_P3, 2);
+SBIT (P3_1, SFR_P3, 1);
+SBIT (P3_0, SFR_P3, 0);
+
+#endif
